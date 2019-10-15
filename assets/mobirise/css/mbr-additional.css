@@ -1583,7 +1583,7 @@ section.lazy-placeholder:after {
   color: #000000 !important;
 }
 .cid-rDFkkBOFxV {
-  background-image: url("../../../assets/images/hoellerman-highlight-96-2000x133355.jpeg");
+  background-image: url("../../../assets/images/hoellerman-highlight-96-2000x133311.jpeg");
 }
 .cid-rDFkkBOFxV h1 {
   color: #616161;
@@ -6246,9 +6246,33 @@ section.lazy-placeholder:after {
 .cid-rCyArykUkJ H2 {
   text-align: center;
 }
-.cid-rEZGLYYi8D {
+.cid-rF0LlpIluW {
   padding-top: 30px;
-  padding-bottom: 0px;
+  padding-bottom: 30px;
+  background-color: #000000;
+}
+.cid-rF0LlpIluW .line {
+  background-color: #efefef;
+  color: #efefef;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rF0LlpIluW .section-text {
+  padding: 2rem 0;
+  color: #ffffff;
+}
+.cid-rF0LlpIluW .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rF0LlpIluW .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rEZGLYYi8D {
+  padding-top: 60px;
+  padding-bottom: 30px;
   background-color: #000000;
 }
 .cid-rEZGLYYi8D .mbr-section-subtitle {
@@ -6284,7 +6308,7 @@ section.lazy-placeholder:after {
   line-height: 20px;
   transition: all .2s;
   color: #ffffff;
-  background: #ff3366;
+  background: #454343;
   width: 25px;
   height: 25px;
   border-radius: 50%;
@@ -6292,8 +6316,13 @@ section.lazy-placeholder:after {
 .cid-rEZEpPaWMc .mbr-text {
   color: #efefef;
 }
+.cid-rF0IQpteoS {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/mcluckie-highlight-64-1024x683.jpg");
+}
 .cid-rDFKOh5naJ {
-  padding-top: 0px;
+  padding-top: 45px;
   padding-bottom: 90px;
   background-color: #000000;
 }
@@ -6315,6 +6344,7 @@ section.lazy-placeholder:after {
 }
 .cid-rDFKOh5naJ LABEL {
   text-align: center;
+  color: #efefef;
 }
 .cid-rDFKOh5naJ H2 {
   color: #ffffff;
