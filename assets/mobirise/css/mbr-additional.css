@@ -1583,7 +1583,7 @@ section.lazy-placeholder:after {
   color: #000000 !important;
 }
 .cid-rDFkkBOFxV {
-  background-image: url("../../../assets/images/hoellerman-highlight-96-2000x133311.jpeg");
+  background-image: url("../../../assets/images/hoellerman-highlight-96-2000x133315.jpeg");
 }
 .cid-rDFkkBOFxV h1 {
   color: #616161;
@@ -6116,6 +6116,52 @@ section.lazy-placeholder:after {
 }
 .cid-rCyArykUkJ H2 {
   text-align: center;
+}
+.cid-rEZGLYYi8D {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #000000;
+}
+.cid-rEZGLYYi8D .mbr-section-subtitle {
+  color: #efefef;
+}
+.cid-rEZGLYYi8D H2 {
+  color: #ffffff;
+}
+.cid-rEZEpPaWMc {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: #000000;
+}
+.cid-rEZEpPaWMc .counter-container {
+  color: #767676;
+}
+.cid-rEZEpPaWMc .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-rEZEpPaWMc .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-rEZEpPaWMc .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #ff3366;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+}
+.cid-rEZEpPaWMc .mbr-text {
+  color: #efefef;
 }
 .cid-rDFKOh5naJ {
   padding-top: 90px;
