@@ -1583,7 +1583,7 @@ section.lazy-placeholder:after {
   color: #000000 !important;
 }
 .cid-rDFkkBOFxV {
-  background-image: url("../../../assets/images/hoellerman-highlight-96-2000x133347.jpeg");
+  background-image: url("../../../assets/images/hoellerman-highlight-96-2000x133351.jpeg");
 }
 .cid-rDFkkBOFxV h1 {
   color: #616161;
@@ -2655,7 +2655,10 @@ section.lazy-placeholder:after {
   color: #c1c1c1;
 }
 .cid-rDFeDUCXJu P {
-  text-align: left;
+  text-align: center;
+}
+.cid-rDFeDUCXJu H5 {
+  text-align: center;
 }
 .cid-rCzeiztkLz {
   background-image: url("../../../assets/images/demarzo-highlight-74-2000x13330.jpg");
